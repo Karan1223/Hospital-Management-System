@@ -1,0 +1,16 @@
+D:\Data Structure\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+D:\Data Structure\Hospital\obj\Debug\Hospital.csproj.SuggestedBindingRedirects.cache
+D:\Data Structure\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\Data Structure\Hospital\bin\Debug\Hospital.exe.config
+D:\Data Structure\Hospital\bin\Debug\Hospital.exe
+D:\Data Structure\Hospital\bin\Debug\Hospital.pdb
+D:\Data Structure\Hospital\obj\Debug\Hospital.exe
+D:\Data Structure\Hospital\obj\Debug\Hospital.pdb
+C:\Users\kpkar\Downloads\Hospital (3)\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\kpkar\Downloads\Hospital (3)\Hospital\bin\Debug\Hospital.exe
+C:\Users\kpkar\Downloads\Hospital (3)\Hospital\bin\Debug\Hospital.pdb
+C:\Users\kpkar\Downloads\Hospital (3)\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+C:\Users\kpkar\Downloads\Hospital (3)\Hospital\obj\Debug\Hospital.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpkar\Downloads\Hospital (3)\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\kpkar\Downloads\Hospital (3)\Hospital\obj\Debug\Hospital.exe
+C:\Users\kpkar\Downloads\Hospital (3)\Hospital\obj\Debug\Hospital.pdb
